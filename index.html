@@ -10,18 +10,40 @@
 </head>
 
 <body>
-
+   <h1>Calcule seu IMC</h1>
   <section class="container">
-    <h1>Calcule seu IMC</h1>
+    <div class="parametros-imc">
+      <div class="imc-escala">
+        
+        <h3> IMC </h3>
+        <p>Menos do que 18,5</p>
+        <p>Entre 18,5 e 24,9</p>
+        <p>Entre 25 e 29,9</p>
+        <p>Entre 30 e 34,9</p>
+        <p>Entre 35 e 39,9</p>
+        <p>Mais que 40</p>
+      </div>
+      <br>
+      <div class="imc-resultado">
+        <h3>Resultado</h3>
+        <p>Abaixo do peso</p>
+        <p>Peso normal</p>
+        <p>Sobrepeso</p>
+        <p>Obesidade grau 1</p>
+        <p>Obesidade grau 2</p>
+        <p>Obesidade grau 3</p>
+      </div>
+    </div>
+
     <form id="formulario">
-        <label for="peso">Peso</label>
-        <input type="text" id="peso">
+      <label for="peso">Peso</label>
+      <input type="text" id="peso">
 
-        <label for="altura">Peso</label>
-        <input type="text" id="altura">
+      <label for="altura">Altura</label>
+      <input type="text" id="altura">
 
-        <button type="submit">Enviar</button>
-     
+      <button type="submit">Enviar</button>
+
     </form>
 
     <div id="resultado"></div>
