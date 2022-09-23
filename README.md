@@ -1,3 +1,21 @@
+# Nome do meu projeto
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | Calculadora IMC
+| :label: Tecnologias | HTML, CSS, JavaScript
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![image](https://user-images.githubusercontent.com/101264784/188645193-2e164e3a-6e15-4725-b811-906640b30d50.png#vitrinedev)
+
+## Detalhes do projeto
+
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
 ## :star2: Sobre o projeto
 
 Aplicação desenvolvida em JavaScript que calcula o IMC. Com base nos valores informados é retornado se a pessoa esta com o abaixo do peso, peso normal,
