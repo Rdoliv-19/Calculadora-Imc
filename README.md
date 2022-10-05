@@ -1,6 +1,4 @@
-# Nome do meu projeto
-
-Rápida descrição do objetivo de fazer esse projeto
+# Calculadora IMC
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -9,12 +7,6 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://user-images.githubusercontent.com/101264784/188645193-2e164e3a-6e15-4725-b811-906640b30d50.png#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
 
 ## :star2: Sobre o projeto
 
@@ -29,9 +21,9 @@ Informe a altura e o peso ao clicar em enviar é chamada a função que coverte 
 
 ### :camera: Imagens do projeto
 
-![image](https://user-images.githubusercontent.com/101264784/188645193-2e164e3a-6e15-4725-b811-906640b30d50.png)
-![image](https://user-images.githubusercontent.com/101264784/188645314-2253f1b7-4676-4c0a-a715-ba1111237442.png)
-![image](https://user-images.githubusercontent.com/101264784/188645451-8d452eb8-91df-4909-8ccc-680b56b0bc47.png)
+![image](https://user-images.githubusercontent.com/101264784/188645193-2e164e3a-6e15-4725-b811-906640b30d50.png#vitrinedev)
+![image](https://user-images.githubusercontent.com/101264784/188645314-2253f1b7-4676-4c0a-a715-ba1111237442.png#vitrinedev)
+![image](https://user-images.githubusercontent.com/101264784/188645451-8d452eb8-91df-4909-8ccc-680b56b0bc47.png#vitrinedev)
 
 ### :space_invader: Tecnologias
 
